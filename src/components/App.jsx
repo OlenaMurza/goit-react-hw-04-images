@@ -8,7 +8,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { toast } from 'react-toastify';
 import { fetchImages } from '../components/Services/PixabayAPI';
 
-export class App extends React.Component {
+export  App {
   state = {
     query: '',
     images: [],
