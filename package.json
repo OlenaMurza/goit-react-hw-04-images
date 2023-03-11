@@ -1,5 +1,5 @@
 {
-  "name": "react-homework-template",
+  "name": "goit-react-hw-04-image",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://OlenaMurza.github.io/goit-react-hw-04-image/",
@@ -43,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint-plugin-react-hooks": "^4.6.0"
   }
 }
